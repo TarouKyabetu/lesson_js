@@ -1,0 +1,33 @@
+何がわかってないか分かっていない
+
+divタグの中にidを記入して console.logしてもnullが返ってくる
+
+イベント発生方法を覚えた。
+functon関数の利用、getelementbyidとquerySelectorの違いについて学んだ。
+
+2回目のクリックで色を変更できない。
+１回目のイベントがスキップされ２回目のイベントに上書きされる。
+
+eventTarget.addEventListener
+クリック毎にon offで色の切り分けをtoggleでおこなう。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
